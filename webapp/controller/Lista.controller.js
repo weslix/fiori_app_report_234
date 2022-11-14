@@ -132,6 +132,11 @@ sap.ui.define([
                     productId: oProductId
                 });
 
+            },
+
+            // Nova função para enviarmos para o Git
+            onFuncaoGit: function(){
+                
             }
 
         });
